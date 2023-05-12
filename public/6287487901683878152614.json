@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739847921625",
+    "project_id": "nokia-1280-new-launcher",
+    "storage_bucket": "nokia-1280-new-launcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739847921625:android:a817f870f3a77fb53503c8",
+        "android_client_info": {
+          "package_name": "com.cocotbosok.nkinewlaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739847921625-e32g6aol0dluun3efs3bi3gvua6kdism.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9x5KI6NfmG4ixJ9_l_M3O4eSJLPK0I_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739847921625-e32g6aol0dluun3efs3bi3gvua6kdism.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
